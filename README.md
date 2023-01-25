@@ -8,4 +8,4 @@
 <br>
 
 
-🌱 I’m currently studying Front End Development at @HackYourFuture-CPH.
+🌱 I’m currently studying Front End Development at [@HackYourFuture-CPH](https://github.com/HackYourFuture-CPH).
