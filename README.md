@@ -15,4 +15,4 @@
 ## Back End
 [![Back-End-Skills](https://skills.thijs.gg/icons?i=nodejs,express,py,flask,firebase,mongodb,mysql,postgres,sqlite&theme=light)](https://skills.thijs.gg)
 ## Miscellaneous
-[![Miscellaneous-Skills](https://skills.thijs.gg/icons?i=git,github,r,jest&theme=light)](https://skills.thijs.gg)
+[![Miscellaneous-Skills](https://skills.thijs.gg/icons?i=git,github,docker,jest,figma,md,r&theme=light)](https://skills.thijs.gg)
