@@ -11,6 +11,7 @@
 # Skills
 
 ## Front End
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,sass,tailwind,bootstrap,wordpress,styledcomponents,react,nextjs&theme=light)](https://skills.thijs.gg)
-
+[![Ront-End-Skills](https://skills.thijs.gg/icons?i=html,css,js,sass,tailwind,bootstrap,wordpress,styledcomponents,react,nextjs&theme=light)](https://skills.thijs.gg)
+## Back End
+[![Back-End-Skills](https://skills.thijs.gg/icons?i=nodejs,express,py,flask,firebase,mongodb,mysql,postgres,sqlite,&theme=light)](https://skills.thijs.gg)
 
