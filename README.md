@@ -7,6 +7,9 @@
 
 <br>
 
-[![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skills.thijs.gg)
+# Skills
+#
+## Front End
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,tailwind,figma,react,nextjs&theme=light)](https://skills.thijs.gg)
 
 🌱 I’m currently studying Full Stack Web Development at [@HackYourFuture-CPH](https://github.com/HackYourFuture-CPH).
