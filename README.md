@@ -11,6 +11,6 @@
 # Skills
 
 ## Front End
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,tailwind,bootstrap,figma,react,nextjs&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,sass,tailwind,bootstrap,figma,react,nextjs&theme=light)](https://skills.thijs.gg)
 
 
