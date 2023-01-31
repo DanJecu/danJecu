@@ -8,7 +8,7 @@
 <br>
 
 # Skills
-#
+
 ## Front End
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,tailwind,figma,react,nextjs&theme=light)](https://skills.thijs.gg)
 
