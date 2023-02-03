@@ -1,4 +1,4 @@
- # <div center" align="center">Hi there, I am Dan 👋 </div>
+ # <div align="center">Hi there, I am Dan 👋 </div>
 
 
 ###  <div align="center"> I am a data analyst with a passion for learning and expanding my skillset.</div>
