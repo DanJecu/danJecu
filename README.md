@@ -4,7 +4,7 @@
 ###  <div> I am a data analyst with a passion for learning and expanding my skillset.</div>
 ### <div style="text-align: center">Currently, I am diving into the world of Web Development, excited to bring my analytical mindset and creativity to the web development field, using my skills to create visually appealing and interactive user experiences. </div>
 
-### <div align="center">Let's connect [![Front-End-Skills](https://skills.thijs.gg/icons?i=linkedin&theme=light)](https://skills.thijs.gg)</div>
+### <div align="center"><p>Let's connect</p> [![Front-End-Skills](https://skills.thijs.gg/icons?i=linkedin&theme=light)](https://skills.thijs.gg)</div>
  
 
 
