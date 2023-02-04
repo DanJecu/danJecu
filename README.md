@@ -8,7 +8,7 @@
  
 ### Let's connect 
 
-# [![https://www.linkedin.com/in/dan-alexandru-jecu/](https://skills.thijs.gg/icons?i=linkedin&theme=light)]((https://www.linkedin.com/in/dan-alexandru-jecu/)
+# [![https://www.linkedin.com/in/dan-alexandru-jecu/](https://skills.thijs.gg/icons?i=linkedin&theme=light)](https://skills.thijs.gg)
  
 ## Skills
 
