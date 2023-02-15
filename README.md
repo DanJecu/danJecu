@@ -1,8 +1,9 @@
  ## <div align="center">Hi there, I am Dan 👋
 
 
-####  <div> I am a data analyst with a passion for learning and expanding my skillset.</div>
-#### <div style="text-align: center">Currently, I am diving into the world of Web Development, excited to bring my analytical mindset and creativity to the web development field, using my skills to create visually appealing and interactive user experiences. </div>
+####  <div> I'm a full-stack developer who carries a keen eye for design in a user-first approach.</div>
+#### <div style="text-align: center">My focus is on creating responsive layouts on the JavaScript stack of React and NodeJS, and from my background, as a
+data analyst, I'm well acquainted with bringing out solutions to complex problems. </div>
 
 #
  
