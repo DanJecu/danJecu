@@ -2,7 +2,7 @@
 
 
 ####  <div> I'm a full-stack developer who carries a keen eye for design in a user-first approach.</div>
-#### <div style="text-align: center">My focus is on creating responsive layouts on the JavaScript stack of React and NodeJS, and from my background, as a ### data analyst, I'm well acquainted with bringing out solutions to complex problems. </div>
+#### <div style="text-align: center">My focus is on creating responsive layouts on the JavaScript stack of React and NodeJS, and from my background, as a data analyst, I'm well acquainted with bringing out solutions to complex problems. </div>
 
 #
  
