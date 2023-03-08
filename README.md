@@ -1,9 +1,9 @@
- ## <div align="center">Hi there, I am Dan 👋</div> 
- <p align="center">
-  <a href="https://www.linkedin.com/in/dan-alexandru-jecu">
+ ## <div align="center">Hi there, I am Dan 👋</div>  <p align="center">
+  <a href="https://www.linkedin.com/in/dan-alexandru-jecu" target="_blank">
     <img src="https://skills.thijs.gg/icons?i=linkedin&theme=light" alt="linkedin">
   </a>
 </p>
+
 
 
 ####  <div> I'm a full-stack developer who carries a keen eye for design in a user-first approach.</div>
@@ -24,7 +24,7 @@
  #
  ## Algorithm Practice 
 <p align="center">
-   <a href="https://leetcode.com/danJecu/">
+   <a href="https://leetcode.com/danJecu/" target="_blank">
   <img src="https://leetcard.jacoblin.cool/danJecu" alt="LeetCode Stats">
  </a>
 </p>
