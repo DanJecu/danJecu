@@ -1,4 +1,4 @@
- ## <div align="center">Hi there, I am Dan 👋</div> <div align="right"> Let's connect [![https://www.linkedin.com/in/dan-alexandru-jecu/](https://skills.thijs.gg/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/dan-alexandru-jecu/) </div
+ ## <div align="center">Hi there, I am Dan 👋</div> <div align="right"> Let's connect [![https://www.linkedin.com/in/dan-alexandru-jecu/](https://skills.thijs.gg/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/dan-alexandru-jecu/)
 
 
 ####  <div> I'm a full-stack developer who carries a keen eye for design in a user-first approach.</div>
