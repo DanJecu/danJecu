@@ -21,7 +21,7 @@
 [![Miscellaneous-Skills](https://skills.thijs.gg/icons?i=git,bash,github,docker,jest,figma,md,r&theme=light)](https://skills.thijs.gg)
 
  #
-  
+ ## Algorithm Practice 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/danJecu" alt="LeetCode Stats">
 </p>
