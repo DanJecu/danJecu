@@ -22,4 +22,6 @@
 
  #
   
-<pre>                                                          [![Leetcode Stats](https://leetcard.jacoblin.cool/danJecu)](https://leetcode.com/danJecu) </pre>
+ <div style="text-align:center">
+ [![Leetcode Stats](https://leetcard.jacoblin.cool/danJecu)](https://leetcode.com/danJecu)
+ </div>
