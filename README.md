@@ -21,4 +21,6 @@
 [![Miscellaneous-Skills](https://skills.thijs.gg/icons?i=git,bash,github,docker,jest,figma,md,r&theme=light)](https://skills.thijs.gg)
 
  ###
+ 
+ 
  [![Leetcode Stats](https://leetcard.jacoblin.cool/danJecu)](https://leetcode.com/danJecu)
