@@ -1,4 +1,4 @@
- ## <div align="center">Hi there, I am Dan 👋</div> <div align="right">[![https://www.linkedin.com/in/dan-alexandru-jecu/](https://skills.thijs.gg/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/dan-alexandru-jecu/)
+ ## <div align="center">Hi there, I am Dan 👋</div> <div align="center">[![https://www.linkedin.com/in/dan-alexandru-jecu/](https://skills.thijs.gg/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/dan-alexandru-jecu/)
 
 
 ####  <div> I'm a full-stack developer who carries a keen eye for design in a user-first approach.</div>
@@ -21,8 +21,3 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/danJecu" alt="LeetCode Stats">
 </p>
-
- #
-### Let's connect 
-
-# 
