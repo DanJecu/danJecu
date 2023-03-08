@@ -23,4 +23,4 @@
  #
  
  
- <div style="align: right"> [![Leetcode Stats](https://leetcard.jacoblin.cool/danJecu)](https://leetcode.com/danJecu)
+ <div align="right"> [![Leetcode Stats](https://leetcard.jacoblin.cool/danJecu)](https://leetcode.com/danJecu)
