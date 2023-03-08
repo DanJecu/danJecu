@@ -19,5 +19,7 @@
  #
  ## Algorithm Practice 
 <p align="center">
-  [<img src="https://leetcard.jacoblin.cool/danJecu" alt="LeetCode Stats">](https://leetcard.jacoblin.cool/danJecu)
+   <a href="https://leetcode.com/danJecu/">
+  <img src="https://leetcard.jacoblin.cool/danJecu" alt="LeetCode Stats">
+ </a>
 </p>
