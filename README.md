@@ -22,6 +22,6 @@
 
  #
   
- <div style="text-align:center">
- [![Leetcode Stats](https://leetcard.jacoblin.cool/danJecu)](https://leetcode.com/danJecu)
- </div>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/danJecu" alt="LeetCode Stats">
+</p>
