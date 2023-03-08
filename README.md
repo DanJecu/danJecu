@@ -1,4 +1,9 @@
- ## <div align="center">Hi there, I am Dan 👋</div> <div align="center">[![https://www.linkedin.com/in/dan-alexandru-jecu/](https://skills.thijs.gg/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/dan-alexandru-jecu/)
+ ## <div align="center">Hi there, I am Dan 👋</div> 
+ <p align="center">
+  <a href="https://www.linkedin.com/in/dan-alexandru-jecu">
+    <img src="https://skills.thijs.gg/icons?i=linkedin&theme=light" alt="linkedin">
+  </a>
+</p>
 
 
 ####  <div> I'm a full-stack developer who carries a keen eye for design in a user-first approach.</div>
