@@ -7,10 +7,6 @@
 
 #
  
-### Let's connect 
-
-# [![https://www.linkedin.com/in/dan-alexandru-jecu/](https://skills.thijs.gg/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/dan-alexandru-jecu/)
- 
 ## Skills
 
 #### Front End
@@ -25,3 +21,8 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/danJecu" alt="LeetCode Stats">
 </p>
+
+ #
+### Let's connect 
+
+# [![https://www.linkedin.com/in/dan-alexandru-jecu/](https://skills.thijs.gg/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/dan-alexandru-jecu/)
