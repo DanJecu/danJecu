@@ -1,7 +1,7 @@
  ## <div align="center">Hi there, I am Dan 👋</div>  <p align="center">  <a href="https://www.linkedin.com/in/dan-alexandru-jecu" target="_blank">    <img src="https://skills.thijs.gg/icons?i=linkedin&theme=light" alt="linkedin"  style="max-width: 30%; margin-top: 10px;">  </a></p>
 
  
-#### <div style="text-align: center;">I'm a full-stack developer who carries a keen eye for design in a user-first approach. </div>
+#### I'm a full-stack developer who carries a keen eye for design in a user-first approach.
 #### My focus is on creating responsive layouts on the JavaScript stack of React and NodeJS.
 #### From my background, as a data analyst, I'm well acquainted with bringing out solutions to complex problems.
 
