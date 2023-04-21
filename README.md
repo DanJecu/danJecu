@@ -3,9 +3,7 @@
  
  ## About me
  
-#### I'm a full-stack developer who carries a keen eye for design in a user-first approach.
-#### My focus is on creating responsive layouts on the JavaScript stack of React and NodeJS.
-#### From my background, as a data analyst, I'm well acquainted with bringing out solutions to complex problems.
+### I'm a passionate developer focused on optimizing business operations. My go-to technologies include Typescript, React, NodeJS, and Python. These powerful tools allow me to create custom software solutions tailored to the unique needs of each business I work with. Whether it's automating manual processes, optimizing workflows, or unlocking new insights from data, I'm always eager to leverage my skills and expertise to help businesses achieve their goals.
 
 #
  
