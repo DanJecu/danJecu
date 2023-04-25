@@ -1,5 +1,6 @@
  ## <div align="center">Hi there, I am Dan 👋</div>  <p align="center">  <a href="https://www.linkedin.com/in/dan-alexandru-jecu" target="_blank">    <img src="https://skills.thijs.gg/icons?i=linkedin&theme=light" alt="linkedin"  style="max-width: 30%; margin-top: 10px;">  </a></p>
 
+
  
  ## About me
  
