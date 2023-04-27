@@ -3,7 +3,7 @@
  ## About me
  
 #### I am a passionate full-stack developer with a life-long learning mentality, dedicated to optimizing business operations through user-first design and custom software solutions.
-#### With a strong background in data analysis, I specialize in creating responsive layouts using the powerful JavaScript stack of React and NodeJS, as well as Typescript, Python and SQL. My expertise in automating manual processes, optimizing workflows, and uncovering new insights from data enables me to create tailored solutions that meet the unique needs of each business I work with.
+#### With a strong background in data analysis, I specialize in creating responsive layouts using the JavaScript stack of React and NodeJS, as well as Typescript, Python and SQL. My expertise in automating manual processes, optimizing workflows, and uncovering new insights from data enables me to create tailored solutions that meet the unique needs of each business I work with.
 
 #
  
