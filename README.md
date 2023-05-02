@@ -10,11 +10,11 @@
 ## Skills
 
 #### Front End
-[![Front-End-Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,emotion,sass,tailwind,bootstrap,styledcomponents,react,nextjs&theme=light)](https://skills.thijs.gg)
+[![Front-End-Skills](https://skills.thijs.gg/icons?i=ts,js,react,nextjs,html,css,emotion,sass,tailwind,bootstrap,styledcomponents,astro,gatsby,pug, redux,threejs&theme=light)](https://skills.thijs.gg)
 #### Back End
 [![Back-End-Skills](https://skills.thijs.gg/icons?i=nodejs,express,py,flask,firebase,mongodb,mysql,postgres,sqlite&theme=light)](https://skills.thijs.gg)
 #### Miscellaneous
-[![Miscellaneous-Skills](https://skills.thijs.gg/icons?i=git,bash,github,docker,jest,figma,md,r&theme=light)](https://skills.thijs.gg)
+[![Miscellaneous-Skills](https://skills.thijs.gg/icons?i=git,vite,bash,github,docker,jest,figma,md,r&theme=light)](https://skills.thijs.gg)
 
  #
  ## Algorithm Practice 
