@@ -10,7 +10,7 @@
 ## Skills
 
 #### Front End
-[![Front-End-Skills](https://skills.thijs.gg/icons?i=ts,js,react,nextjs,html,css,emotion,sass,tailwind,bootstrap,styledcomponents,gatsby,pug,redux,threejs&theme=light)](https://skills.thijs.gg)
+[![Front-End-Skills](https://skills.thijs.gg/icons?i=ts,js,react,nextjs,html,css,emotion,sass,tailwind,materialui,styledcomponents,gatsby,pug,redux,threejs&theme=light)](https://skills.thijs.gg)
 #### Back End
 [![Back-End-Skills](https://skills.thijs.gg/icons?i=nodejs,express,nestjs,py,flask,firebase,mongodb,mysql,postgres,sqlite&theme=light)](https://skills.thijs.gg)
 #### Miscellaneous
