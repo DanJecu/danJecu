@@ -15,14 +15,3 @@
 [![Back-End-Skills](https://skills.thijs.gg/icons?i=nodejs,express,pug,nestjs,py,flask,firebase,mongodb,mysql,postgres&theme=light)](https://skills.thijs.gg)
 #### Miscellaneous
 [![Miscellaneous-Skills](https://skills.thijs.gg/icons?i=git,vite,bash,github,docker,jest,figma,md,r&theme=light)](https://skills.thijs.gg)
-
- #
- ## Algorithm Practice 
-<p align="center">
-   <a href="https://leetcode.com/danJecu/" target="_blank">
-  <img src="https://leetcard.jacoblin.cool/danJecu" alt="LeetCode Stats">
- </a>
-</p>
-
-
-
