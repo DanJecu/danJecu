@@ -2,8 +2,9 @@
  
  ## About me
  
-#### I am a passionate self-taught full stack developer with a life-long learning mentality, dedicated to optimizing business operations through user-first design and custom software solutions.
-#### With a strong background in data analysis, I specialize in creating responsive layouts using the JavaScript stack of React and NodeJS, as well as Typescript, Python and SQL. My expertise in automating manual processes, optimizing workflows, and uncovering new insights from data enables me to create tailored solutions that meet the unique needs of each business I work with.
+#### As an experienced self-taught full-stack developer, I've contributed to projects in the supply chain and sports performance fields.
+#### Currently, I'm actively working in a company, bringing my skills in React, ReactNative, NodeJS, Typescript, Python, and SQL to create tailored solutions that optimize business operations.
+#### My lifelong learning mentality drives me to stay at the forefront of technology and deliver user-first design.
 
 #
  
