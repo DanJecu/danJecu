@@ -1,4 +1,4 @@
-## <div align="center">Hi there, I am Dan 👋</div>  <p align="center"> </p>
+## Hi there, I am Dan 👋
  
  ## About me
  
