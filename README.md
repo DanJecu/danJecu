@@ -13,7 +13,7 @@
 #### Front End
 [![Front-End-Skills](https://skills.thijs.gg/icons?i=ts,js,react,nextjs,emotion,sass,tailwind,materialui,styledcomponents,redux,threejs&theme=light)](https://skills.thijs.gg)
 #### Back End
-[![Back-End-Skills](https://skills.thijs.gg/icons?i=nodejs,express,pug,nestjs,py,flask,firebase,mongodb,mysql,postgres&theme=light)](https://skills.thijs.gg)
+[![Back-End-Skills](https://skills.thijs.gg/icons?i=nodejs,express,nestjs,py,flask,firebase,mongodb,mysql,postgres&theme=light)](https://skills.thijs.gg)
 #### Miscellaneous
 [![Miscellaneous-Skills](https://skills.thijs.gg/icons?i=git,vite,bash,github,docker,jest,figma,md,r&theme=light)](https://skills.thijs.gg)
 
