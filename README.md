@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanJecu)](https://github.com/anuraghazra/github-readme-stats)
+[![My Skills](https://skillicons.dev/icons?i=react,css,tailwind,ts,graphql,node,aws,py&perline=4)](https://skillicons.dev)
