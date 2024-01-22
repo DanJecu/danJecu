@@ -2,7 +2,7 @@
 
 <p align="left">
   <span>
-    <isn><h3>Tech Stack</h3></isn>
+    <h3><isn>Tech Stack</isn></h3>
     <img src="https://skillicons.dev/icons?i=react,tailwind,css,ts,graphql,nodejs,aws,py&perline=4" />
   </span>
   <span>
