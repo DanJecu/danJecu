@@ -1,6 +1,6 @@
 # Sports Scientist by degree, Software Engineer by passion
 
-<p>
+<p align="left">
   <span style="float: left; width: 50%;">
     <h3>Tech Stack</h3>
     <img src="https://skillicons.dev/icons?i=react,tailwind,css,ts,graphql,nodejs,aws,py&perline=4" />
@@ -10,4 +10,4 @@
     <img src="https://skillicons.dev/icons?i=threejs,go,swift&perline=4" />
   </span>
 </p>
-<div style="clear: both;"></div>
+
