@@ -7,6 +7,6 @@
   </span>
   <span>
     <h3 style="text-decoration: underline;">Currently Learning</h3>
-    <img src="https://skillicons.dev/icons?i=go&perline=2" />
+    <img src="https://skillicons.dev/icons?i=rust&perline=2" />
   </span>
 </p>
