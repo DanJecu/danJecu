@@ -6,5 +6,3 @@
     <img src="https://skillicons.dev/icons?i=ts,go,py,lua,react,tailwind,css,nodejs,graphql,aws&perline=5" />
   </span>
 </p>
-
-
